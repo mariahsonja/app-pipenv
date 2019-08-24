@@ -1,10 +1,10 @@
-### APP Pipenv
+## APP Pipenv
 
 A simple *Flask* application "Hello, Earth!" using Pipenv.
 
 #### Cloning this repo
  
- `git clone ......`
+ `git clone git@github.com:mariahsonja/app_pipenv.git`
  
 #### Installing Pre-requisites
 
