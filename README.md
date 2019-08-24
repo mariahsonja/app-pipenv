@@ -43,20 +43,10 @@ Next, you will need to create a new virtual environment.
 `pipenv shell`
 
 
-Now, for a development server, you need to: 
+Now, to run the app, you need to: 
 
 
 `FLASK_APP=app.app flask run`
-
-
-
-### Building and running the Docker image
-
-
-`docker build -t app_pipenv-app .`
-
-
-`docker run -p 8000:8000 app_pipenv-app`
 
 
 
