@@ -46,7 +46,7 @@ Next, you will need to create a new virtual environment.
 Now, for a development server, you need to: 
 
 
-`FLASK_APP=app flask run`
+`FLASK_APP=app.app flask run`
 
 
 
