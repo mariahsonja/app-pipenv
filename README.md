@@ -1,4 +1,5 @@
 # APP Pipenv
+![Python](https://img.shields.io/badge/Python-3.7-brightgreen.svg)
 
 A simple *Flask* application "Hello, Earth!" using `Pipenv` and `Python 3.7.4`.
 
@@ -53,6 +54,5 @@ Now, to run the app, you need to:
 #### Referencies
 
 - Pipenv: https://github.com/pypa/pipenv
-
 
 **Thank you!**
